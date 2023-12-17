@@ -1,0 +1,50 @@
+﻿{
+  "applicationCaption": "Tdven",
+  "applicationTitle": "Tdven",
+  "items": [
+    {
+      "link": null,
+      "menuName": "терминал",
+      "caption": "Терминал",
+      "title": "Терминал",
+      "children": [
+        {
+          "link": "i-i-s-tdven-место-на-рейс-l",
+          "menuName": null,
+          "caption": "Место на рейс",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tdven-пассажир-l",
+          "menuName": null,
+          "caption": "Пассажир",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tdven-код-брони-l",
+          "menuName": null,
+          "caption": "Код бронирования",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tdven-рейс-l",
+          "menuName": null,
+          "caption": "Рейс",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-tdven-посад-талон-l",
+          "menuName": null,
+          "caption": "Посадочный талон",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

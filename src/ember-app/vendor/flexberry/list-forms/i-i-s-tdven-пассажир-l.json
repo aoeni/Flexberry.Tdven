@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-tdven-пассажир-e",
+  "editForm": "i-i-s-tdven-пассажир-e",
+  "external": false,
+  "caption": "Пассажир",
+  "name": "IISTdvenПассажирL",
+  "className": "ПассажирL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-tdven-пассажир",
+      "modelProjection": "ПассажирL"
+    }
+  ]
+}
